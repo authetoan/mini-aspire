@@ -31,6 +31,9 @@ Follow these steps to set up the application on your local machine.
 ### Installation
 
 To install the application's dependencies, run the following command in your terminal:
+```bash 
+docker-compose up -d
+```
 
 ```bash
 composer install
